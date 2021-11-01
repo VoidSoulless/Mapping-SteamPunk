@@ -45,9 +45,9 @@ MonoBehaviour:
   - title: Electricity
     position:
       serializedVersion: 2
-      x: -361
+      x: -315
       y: -256
-      width: 1201
+      width: 1163
       height: 1641
     contents:
     - model: {fileID: 8926484042661614690}
@@ -72,9 +72,9 @@ MonoBehaviour:
   categories: []
   uiBounds:
     serializedVersion: 2
-    x: -352
+    x: -315
     y: -256
-    width: 1744
+    width: 1707
     height: 1649
 --- !u!114 &114350483966674976
 MonoBehaviour:
@@ -1822,14 +1822,14 @@ MonoBehaviour:
   m_UIIgnoredErrors: []
   m_Parent: {fileID: 114350483966674976}
   m_Children: []
-  m_UIPosition: {x: 562, y: 242}
+  m_UIPosition: {x: 570, y: 225}
   m_UICollapsed: 0
   m_UISuperCollapsed: 0
   m_InputSlots: []
   m_OutputSlots:
   - {fileID: 8926484042661614754}
   - {fileID: 8926484042661614755}
-  Asset: {fileID: -3256353808211938606, guid: 924d09c70a0d00f4d8fb51dadeb95f2b, type: 3}
+  Asset: {fileID: -3256353808211938606, guid: 2c491b215d54a3744bafbdcdfb9afad2, type: 3}
 --- !u!114 &8926484042661614754
 MonoBehaviour:
   m_ObjectHideFlags: 0
